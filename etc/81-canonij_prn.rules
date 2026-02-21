@@ -1,0 +1,7 @@
+SUBSYSTEM=="usb", KERNEL=="lp[0-9]*", ATTRS{idVendor}=="04a9", ATTRS{idProduct}=="10b9", MODE="664"
+SUBSYSTEM=="usb", KERNEL=="lp[0-9]*", ATTRS{idVendor}=="04a9", ATTRS{idProduct}=="1759", MODE="664"
+SUBSYSTEM=="usb", KERNEL=="lp[0-9]*", ATTRS{idVendor}=="04a9", ATTRS{idProduct}=="175a", MODE="664"
+SUBSYSTEM=="usb", KERNEL=="lp[0-9]*", ATTRS{idVendor}=="04a9", ATTRS{idProduct}=="175b", MODE="664"
+SUBSYSTEM=="usb", KERNEL=="lp[0-9]*", ATTRS{idVendor}=="04a9", ATTRS{idProduct}=="175c", MODE="664"
+SUBSYSTEM=="usb", KERNEL=="lp[0-9]*", ATTRS{idVendor}=="04a9", ATTRS{idProduct}=="175d", MODE="664"
+SUBSYSTEM=="usb", KERNEL=="lp[0-9]*", ATTRS{idVendor}=="04a9", ATTRS{idProduct}=="175e", MODE="664"

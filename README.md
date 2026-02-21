@@ -4,10 +4,10 @@ armbian v25.11.2 for OneCloud running Armbian Linux 6.12.58-current-meson
 
 硬件配置：玩客云+佳能IP100
 特别感谢：佳能（https://sg.canon/en/support/PIXMA%20iP100/model）
-         GitHub项目（https://github.com/otterdahl/cnijfilter-ip100）
-         Gutenprint
-         阿里千问
-         (排名无先后）
+GitHub项目（https://github.com/otterdahl/cnijfilter-ip100）
+Gutenprint
+阿里千问
+(排名无先后）
 备注：为什么将整个项目发上来，是因为我不想去搞为什么打印机能用了（程序和程序员有一个能跑就行）；
 我现在的状态是cd到这个文件夹，make一下就好了；
 可能需要安装G++、Gutenprint等，具体需要安装什么，请自行摸索。
